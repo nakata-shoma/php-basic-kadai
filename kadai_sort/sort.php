@@ -39,7 +39,7 @@
                 }
             }
         }
-
+        sort_2way($nums,TRUE)
         sort_2way($nums,FALSE)
         ?>
     </p>
